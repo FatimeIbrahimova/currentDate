@@ -1,0 +1,33 @@
+.btn-stop{
+    background-color: red;
+    color:white;
+    margin-top: 10px;
+    border:none;
+    border-radius: 5px;
+}
+/* .first-part{
+    margin:0 40px;
+} */
+.hero-section{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.second-part{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    border-radius: 8px;
+}
+#calendar{
+    width: 200px;
+}
+.btn-blue{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.dateCalc{
+    border: 1px solid black;
+    width: 150px;
+}
